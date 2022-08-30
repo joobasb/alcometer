@@ -1,3 +1,32 @@
+h1 {
+  color: black;
+  font-weight: bold;
+}
+
+form {
+  background-color: #ae7441d4;
+  padding: 10px;
+}
+div {
+  display: block;
+  margin: 10px;
+}
+
+input, select {
+  width: 100px;
+  align-items: center;
+  border-color: blue;
+  
+}
+
+output {
+  font-weight: bold;
+}
+
+button {
+  background-color: beige;
+}
+
 .App {
   text-align: center;
 }
