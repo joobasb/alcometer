@@ -4,27 +4,45 @@ h1 {
 }
 
 form {
-  background-color: #ae7441d4;
+  background-color: #c7854bd4;
+  width: 400px;
+  height: 350px;
   padding: 10px;
+  border-radius: 5%;
 }
 div {
   display: block;
-  margin: 10px;
+  margin: 5px;
+  text-align: center;
+  width: 380px;
 }
 
-input, select {
+select {
   width: 100px;
   align-items: center;
-  border-color: blue;
+  border-color: #c7854ba5;
   
 }
 
 output {
   font-weight: bold;
+  margin: 5px;
+}
+
+p {
+  margin: 0;
 }
 
 button {
   background-color: beige;
+  font-weight: bold;
+  margin-top: 10px;
+  border-radius: 5px;
+
+}
+
+button:hover {
+  background-color: lightgrey;
 }
 
 .App {
